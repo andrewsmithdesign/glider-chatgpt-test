@@ -1,5 +1,5 @@
 {
   "name": "glider-sync",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sync test for Glider's shared Claude and ChatGPT layout."
 }
