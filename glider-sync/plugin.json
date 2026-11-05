@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "glider-sync",
+  "version": "0.1.0",
+  "description": "Sync test for Glider's shared Claude and ChatGPT layout.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "glider-sync",
+        "shortDescription": "Sync test"
+      }
+    }
+  }
+}

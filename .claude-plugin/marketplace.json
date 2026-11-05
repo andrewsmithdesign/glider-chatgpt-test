@@ -1,0 +1,11 @@
+{
+  "name": "glider-sync-test",
+  "owner": { "name": "Andrew Smith" },
+  "plugins": [
+    {
+      "name": "glider-sync",
+      "source": "./glider-sync",
+      "description": "Sync test for Glider's shared Claude and ChatGPT layout."
+    }
+  ]
+}
