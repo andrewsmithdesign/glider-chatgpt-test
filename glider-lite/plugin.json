@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "glider-lite",
+  "version": "0.1.0",
+  "description": "Test stand-in for Glider: installs company Skills into the user's own Glider skills plugin.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "glider-lite",
+        "shortDescription": "Install company Skills",
+        "longDescription": "Test stand-in for Glider. Installs, updates, lists and removes company Skills in a private plugin called glider-skills."
+      }
+    }
+  }
+}
